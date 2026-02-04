@@ -19,5 +19,10 @@ number2= "100"
 ika=int(input("Anna ikäsi:"))
 lisa=10
 print("käyttäjän ikä on:", ika + lisa)
+pituus = float(input("Kuinka pitkä olet?"))
+paino=float(input("Paljonko painat?"))
+bmi=paino / (pituus / 100) **2
+print("BMI:si on", bmi)
+
 
 
