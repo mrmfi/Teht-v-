@@ -23,6 +23,9 @@ pituus = float(input("Kuinka pitkä olet?"))
 paino=float(input("Paljonko painat?"))
 bmi=paino / (pituus / 100) **2
 print("BMI:si on", bmi)
-
+#kysytään pituus ja paino
+print(f"BMI:si on {bmi}.")
+import math
+math.pi * 5^2
 
 
