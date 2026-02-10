@@ -105,3 +105,4 @@ else:
                 print("Vuosi on karkausvuosi.")
             else:
                 print("Vuosi ei ole karkausvuosi.")
+print("")
